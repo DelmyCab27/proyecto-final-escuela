@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cuidado del Medio Ambiente</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<!--[if IE 9]><link rel="stylesheet" type="text/css" href="css/ie9.css"><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="css/ie8.css"><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="css/ie7.css"><![endif]-->
+</head>
+<body>
+<div id="header">
+  <div>
+    <div id="logo"> <a href="index.html"><img src="images/logo.png" alt=""></a> </div>
+    <div id="navigation">
+      <div>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About us</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+          <li class="current"><a href="why-choose-us.html">Why Choose Us?</a></li>
+          <li><a href="blog.html">Blog</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div>
+    <div> <a href="#"><img src="images/map-in-grass2.jpg" alt=""></a> <span></span> </div>
+    <h3>Cuidado del Medio Ambiente</h3>
+    <p>Podemos pensar que nosotros, personas corrientes, no podemos hacer nada al respecto, que son las grandes empresas o gobiernos los que tienen la obligación de tomar las medidas necesarias para acabar con este problema, pero no, lo cierto es que absolutamente todos somos responsables del maltrato que sufre nuestro planeta y que sí está en nuestra mano cambiar con esto con cualquier acción por pequeña que sea. 
+   Tanto en nuestro hogar como en nuestra empresa. Ahora verás cuáles son las medidas más eficaces para preservar <br> el medio ambiente y para mantenerlo cuidado; a pesar<br> de todas las condiciones que en ocasiones puedan limitarlo. 
+  <h1>¿Cómo cuidarlo desde nuestro hogar?</h1>
+  <h4>*Separar la basura.</h4> El reciclaje es uno de los puntos clave para ayudar con el cuidado del medio ambiente.
+<h4>*Productos reutilizables.</h4> El uso de productos que puedan reutilizarse es un punto clave para proteger la naturaleza.
+<h4>*Uso del termostato.</h4> El consumo de energía de la calefacción, al bajar un solo grado la temperatura, ese consumo de energía disminuye. Controlar lo máximo posible el consumo del termostato.
+<h4>*Uso de transporte público.</h4>
+<h4>*Uso de carritos de tela o Bolsas de tela en los supermercados.</h4>
+<h4>Uso de energías renovables.</h4>
+</p>
+  </div>
+</div>
+<div id="footer">
+  <div>
+    <div class="first">
+      <h3><a href="#">Vida ambiental</a></h3>
+      <p>Enseñar a cuidar el medio ambiente es enseñar a valorar la vida.</p>
+    </div>
+    <div>
+      <h3>Contacto!</h3>
+      <div>
+     <p>Para cualquier duda por favor de comunicarse al número de télefono o al correo</p><br>
+        <p>Télefono : <span>9992363225</span></p>
+        <p>Correo : <span>vidaambiental@gmail.com</span></p>
+      </div>
+</div>
+</body>
+</html>

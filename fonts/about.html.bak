@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ecothunder | About Us</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<!--[if IE 9]><link rel="stylesheet" type="text/css" href="css/ie9.css"><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="css/ie8.css"><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="css/ie7.css"><![endif]-->
+</head>
+<body>
+<div id="header">
+  <div>
+    <div id="logo"> <a href="index.html"><img src="images/logo.png" alt=""></a> </div>
+    <div id="navigation">
+      <div>
+        <ul>
+          <li><a href="index.html">inicio</a></li>
+          <li class="current"><a href="about.html">Nosotros</a></li>
+          <li><a href="why-choose-us.html">Why Choose Us?</a></li>
+          <li><a href="blog.html">Blog</a></li>
+		  <li><a href="contact.html">Contacto</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div>
+    <div> <a href="#"><img src="images/medio.png" alt=""></a> <span></span> </div>
+    <b class="first"><strong><h3>¿Qué somos nosotros?</h3></strong></b>
+    <p>Vida Ambiental es un medio informativo centrado en temáticas del Medio Ambiente en el que encontraras  
+	informacion con un efoque mas visual.Estamos empezando a especializarnos para mejorar cada una de las secciones.<br> 
+	Nuestra pagina esta dedicada a su totalidad, a conciernar a los internautas de que el Medio Ambiente es importante para nosotros como personas y 
+	debemos aprender a cuidarlo, en nuestras secciones podemos ver por que es muy importante cuidar cada parte que lo conforma.
+</div>
+<div id="footer">
+  <div>
+    <div class="first">
+      <h3><a href="#">Vida ambiental</a></h3>
+      <p>Enseñar a cuidar el medio ambiente es enseñar a valorar la vida.</p>
+    </div>
+    <div>
+      <h3>Contacto!</h3>
+      <div>
+     <p>Para cualquier duda por favor de comunicarse al número de télefono o al correo</p><br>
+        <p>Télefono : <span>9992363225</span></p>
+        <p>Correo : <span>vidaambiental@gmail.com</span></p>
+      </div>
+  </div>
+</div>
+</body>
+</html>

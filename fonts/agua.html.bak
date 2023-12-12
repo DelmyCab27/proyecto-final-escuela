@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contaminación Hídrica</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<!--[if IE 9]><link rel="stylesheet" type="text/css" href="css/ie9.css"><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="css/ie8.css"><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="css/ie7.css"><![endif]-->
+</head>
+<body>
+<div id="header">
+  <div>
+    <div id="logo"> <a href="index.html"><img src="images/logo.Png" alt=""></a> </div>
+    <div id="navigation">
+      <div>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About us</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+          <li class="current"><a href="why-choose-us.html">Why Choose Us?</a></li>
+          <li><a href="blog.html">Blog</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div>
+    <div> <a href="#"><img src="images/suelo1.jpg" alt=""></a> <span></span> </div>
+    <h3>Contaminación Hídrica</h3>
+	<h1>¿Qué es?</h1>
+    <p>La contaminación hídrica o la contaminación del agua es una modificación de esta, que la vuelve impropia o peligrosa para el consumo, la industria, la agricultura, la pesca y las actividades, así como para los animales. Es decir, es agua tóxica que no se puede ni beber 
+	ni destinar a actividades esenciales como la agricultura, además de una fuente de insalubridad que provoca más de 500.000 muertes anuales a nivel global por diarrea y transmite enfermedades como el cólera, la disentería, la fiebre tifoidea y la poliomielitis.
+	<h1>Causas de la contaminacion del Agua </h1>
+    <p>Los factores naturales, como la filtración del mercurio presente en la corteza de la Tierra, pueden contaminar los océanos, ríos, lagos, canales y embalses. Sin embargo, lo habitual es que el deterioro del agua proceda de las actividades humanas y sus consecuencias</p>
+   <h1>Consecuencia de la contaminacion del agua</h1>
+   Otras de las consecuencias:
+   <br><h4>Destrucción de la biodiversidad:</h4> La contaminación hídrica empobrece los ecosistemas acuáticos y facilita la proliferación descontrolada de algas fitoplanctónicas en los lagos —eutrofización—.
+<br><h4>Contaminación de la cadena alimentaria:</h4> La pesca en aguas contaminadas, así como la utilización de aguas residuales en la ganadería y la agricultura, pueden transmitir toxinas a los alimentos que perjudiquen nuestra salud a través de su ingesta.
+<br><h4>Escasez de agua potable:</h4> La ONU admite que aún existen miles de millones de personas en el mundo sin acceso a agua potable y saneamiento, sobre todo en zonas rurales.
+<br><h4>Enfermedades:</h4> La OMS calcula que unos 2.000 millones de personas beben agua potable contaminada por excrementos, exponiéndose a contraer enfermedades como el cólera, la hepatitis A y la disentería.
+<br><h4>Mortalidad infantil:</h4> Según la ONU, las enfermedades diarreicas vinculadas a la falta de higiene causan la muerte a unos mil niños al día en todo el mundo.
+   <h1>¿Qué podemos hacer para evitar y revertir la degradación de la tierra? </h1>
+   Reemplazar el riego tradicional (por manto o inundación) por sistemas de riego por goteo, que colocan el agua justo al lado de las raíces. Los árboles y las plantas que protegen el suelo del viento, conservan su humedad y aportan materia orgánica    
+<h1>Soluciones para la Contaminación del Agua </h1>
+Por esta razón, debemos evitar la contaminación del agua con medidas como las que presentamos a continuación:<br>
+<br>*Reducir las emisiones de CO2 para evitar el calentamiento terrestre y la acidificación de los océanos.
+<br>*Atenuar el uso de plaguicidas químicos y nutrientes en los cultivos agrícolas.
+<br>*Disminuir y depurar las aguas residuales de forma segura para que, además de no contaminar, puedan reutilizarse para el regadío y la producción de energía.
+<br>*Limitar el uso de plásticos de un solo uso que acaban flotando en ríos, lagos y océanos, muchos en forma de microplásticos.
+<br>*Fomentar la pesca sostenible para garantizar la supervivencia de las especies y evitar el empobrecimiento de los mares.
+ </p>
+</div>
+</div>
+<div id="footer">
+  <div>
+    <div class="first">
+      <h3><a href="#">Vida ambiental</a></h3>
+      <p>Enseñar a cuidar el medio ambiente es enseñar a valorar la vida.</p>
+    </div>
+    <div>
+      <h3>Contacto!</h3>
+      <div>
+     <p>Para cualquier duda por favor de comunicarse al número de télefono o al correo</p><br>
+        <p>Télefono : <span>9992363225</span></p>
+        <p>Correo : <span>vidaambiental@gmail.com</span></p>
+      </div>
+  </div>
+</div>
+</body>
+</html>

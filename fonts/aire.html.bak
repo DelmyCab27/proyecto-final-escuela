@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contaminación del aire</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<!--[if IE 9]><link rel="stylesheet" type="text/css" href="css/ie9.css"><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="css/ie8.css"><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="css/ie7.css"><![endif]-->
+</head>
+<body>
+<div id="header">
+  <div>
+    <div id="logo"> <a href="index.html"><img src="images/logo.Png" alt=""></a> </div>
+    <div id="navigation">
+      <div>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About us</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+          <li class="current"><a href="why-choose-us.html">Why Choose Us?</a></li>
+          <li><a href="blog.html">Blog</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div>
+    <div> <a href="#"><img src="images/calentamiento.jpg" alt=""></a> <span></span> </div>
+    <h3>El Calentamiento Global</h3>
+	<h1>¿Qué es?</h1>
+    <p>La contaminación del aire es uno de los principales retos a los que nos enfrentamos. Los efectos de la contaminación atmosférica pueden ser irreversibles para la vida en el planeta, por lo que hay que trabajar para evitar, reducir, compensar o mitigar la contaminación del aire.
+	La contaminación atmosférica consiste en la presencia de materias o formas de energía en el aire que pueden suponer un riesgo, daño o molestia de diferente gravedad para los seres vivos. Entre las consecuencias directas de la contaminación atmosférica, se podría destacar el desarrollo de 
+	enfermedades y afecciones en los seres humanos y la biodiversidad, así como la pérdida de visibilidad en zonas de grandes concentraciones o la aparición de olores desagradables.</p>
+	<h1>¿Qué tipos de sustancias producen la contaminación del aire? </h1>
+    <p>La contaminación atmosférica se presenta en diferentes sustancias que se derivan fundamentalmente de cinco focos de actividades humanas: la industria, la agricultura, los residuos, los hogares y el transporte. Una concentración elevada de gases de efecto invernadero es altamente nocivo para la salud del planeta y sus habitantes. Estas son los principales gases contaminantes:
+     <br> * El monóxido de carbono
+      <br>*El dióxido de carbono
+      <br>*El dióxido de nitrógeno
+	  <br>*El óxido de nitrógeno
+   <h1>¿Dónde se produce la contaminación del aire?</h1>
+   Estas emisiones tienen cinco focos básicos producidos por el ser humano:
+    <h4>Industrias:</h4> La producción de energía es la fuente principal de la contaminación del aire, aunque no la única. La quema de carbón por parte de centrales eléctricas o aquellas plantas basadas en diésel, son dos de las fuentes de emisión más frecuentes y nocivas. 
+    <h4>Transporte:</h4>Cerca de 25% de todas las emisiones de CO2 (dióxido de carbón) relacionadas con la energía provienen del transporte. Estas emisiones producen aproximadamente cerca de 400.000 muertes prematuras al año por la mala calidad del aire. La mitad de ellas son consecuencia de la emisión de diésel debido a la emisión de óxidos de nitrógeno. 
+    <h4>Agricultura:</h4> En este sector hay dos fuentes principales que producen el 24% de todos los gases de efecto invernadero. Por un lado, la quema de residuos agrícolas y, por otro, el metano y amoníaco que genera la ganadería. Las emisiones de metano son especialmente destacables, puesto que afectan al ozono a ras de suelo. Esta contaminación del aire es causante de enfermedades respiratorias y aumenta el asma. 
+     <h4>Residuos:</h4> Se calcula que el 40% de los residuos generados en el mundo y los desechos orgánicos se queman al aire libre, lo que genera emisiones a la atmósfera de dioxinas nocivas, furanos, metano y carbono negro. Una problemática que afecta especialmente a aquellas regiones o zonas que están en proceso de urbanización o a países en vías de desarrollo.</p>
+   <h1>Consejos para frenar la contaminación atmosférica </h1>
+   Revertir esta situación es una tarea de todos. Por ello,queremos ofrecerte una serie de recomendaciones para que contribuyas a ser parte de la solución y frenemos, entre todos, un problema medioambiental:
+      <br>*Sustituye el coche por el transporte público u otros medios más sostenibles
+      <br>*Reduce el consumo de plástico
+      <br>*Apuesta por la regla de las 3 R’s: recicla, reutiliza y reduce.
+	  <br>*Vigila los productos que consumes y opta por aquellos cuyo impacto en el medio ambiente sea mínimo.
+	  <br>*Opta por la eficiencia energética y minimiza el consumo de energía.
+ </p>
+</div>
+</div>
+<div id="footer">
+  <div>
+    <div class="first">
+      <h3><a href="#">Vida ambiental</a></h3>
+      <p>Enseñar a cuidar el medio ambiente es enseñar a valorar la vida.</p>
+    </div>
+    <div>
+      <h3>Contacto!</h3>
+      <div>
+     <p>Para cualquier duda por favor de comunicarse al número de télefono o al correo</p><br>
+        <p>Télefono : <span>9992363225</span></p>
+        <p>Correo : <span>vidaambiental@gmail.com</span></p>
+      </div>
+  </div>
+</div>
+</body>
+</html>
